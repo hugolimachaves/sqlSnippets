@@ -12,7 +12,9 @@ All the scripts on this repo was intended to run on MySQL environment.
 
 In order to run the queries proposed on this repo, you need to create the dataset example (provied from a third party as synthetic data). You can perform data simply running the example scritp called: *"employees.sql"*. Once it is done, you are able to perform any of the codes listed on this repo.
 
-## __Currently, it is offered sqlSnipps for the following topics:__
+## Coverage
+
+__Currently, it is offered sqlSnipps for the following topics:__
 
 | __Topic__ | __Description__ |
 | ----------------| ----------- |
