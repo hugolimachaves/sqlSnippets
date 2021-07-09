@@ -16,7 +16,7 @@ In order to run the queries proposed on this repo, you need to create the datase
 
 | __Topic__ | __Description__ |
 | ----------------| ----------- |
-|      *alias* 		   |		alias query	          						|
+|       *alias*        |		alias query	          						|
 |    *constraints*	   |  		constrainsts on queries		  	  			|
 |       *count*    	   | 		count, select count			  				| 
 |   *count distinct*   | 		count distict query			  				| 
